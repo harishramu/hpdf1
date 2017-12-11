@@ -3,6 +3,11 @@
 # expo
 .expo/
 
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
 # dependencies
 /node_modules
 
